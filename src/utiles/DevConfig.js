@@ -1,6 +1,6 @@
 export const rowConfig = {
   desktop: {
-    sizes: ["242px", "450px", "247px", "600px 120px"],
+    sizes: ["242px", "450px", "247px", "600px"],
   },
   tablet: {
     sizes: ["242px", "350px", "247px", "134px"],

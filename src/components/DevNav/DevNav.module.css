@@ -1,0 +1,20 @@
+.header {
+  /* position: fixed; */
+  position: relative;
+  width: 100%;
+  z-index: 100;
+  background-color: rebeccapurple;
+}
+
+.nav {
+  padding: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}

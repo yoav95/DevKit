@@ -8,7 +8,7 @@ const StyledGrid = styled.div`
   grid-template-rows: ${(props) => props.desktopRows};
   row-gap: ${(props) => props.gap};
   column-gap: ${(props) => props.gap};
-
+  margin: 5px 0;
   @media (min-width: 768px) and (max-width: 1199px) {
     grid-template-rows: ${(props) => props.tabletRows};
   }
